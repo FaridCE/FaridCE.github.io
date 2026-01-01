@@ -86,3 +86,10 @@ defaults:
       layout: "post"
       author: "A. F. Cantun"
       comments: false    # set true if you later add a comment system
+
+# -------------------------------------------------
+# PDF manuscript visualization collection
+# -------------------------------------------------
+collections:
+  manuscripts:
+    output: true
