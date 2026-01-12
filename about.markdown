@@ -26,4 +26,3 @@ This line of reseach continues the program started by DeWitt, Schwinger, Bunch, 
 * Understand how Einstein gravity behaves in models with highly anistotropic stress. 
 * Find string-inspired models which can be connected to effective objects comming from string theory. 
 * Understand how the stability and cosmic censorship of exotic solutions can be recovered using semiclassical quantum corrections.
-
