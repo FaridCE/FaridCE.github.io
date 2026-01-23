@@ -19,10 +19,10 @@ Welcome to my library. You can view or download my latest work below.
   <iframe id="pdfFrame1" src="" width="100%" height="600px" style="border: 1px solid #ccc;"></iframe>
 </div>
 
-* **Exact solutions to the Einstein field equations.**
+* **Classical and Semiclassical Probes of Dimension-Dependent Effective Geometries.** 
 <br>
 
-<button onclick="togglePreview('previewBtn2', 'pdfContainer2', 'pdfFrame2', '{{ '/assets/manuscripts/EFE.pdf#view=FitH' | relative_url }}')" id="previewBtn2" style="background-color: #2ea44f; color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: bold; margin: 10px 0;">
+<button onclick="togglePreview('previewBtn2', 'pdfContainer2', 'pdfFrame2', '{{ '/assets/manuscripts/EG.pdf#view=FitH' | relative_url }}')" id="previewBtn2" style="background-color: #2ea44f; color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: bold; margin: 10px 0;">
   Show Preview
 </button>
 
