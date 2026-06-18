@@ -11,18 +11,22 @@ My name is **Alejandro Farid Cantun Estrella** – I am a mexican physicist rese
 
 * Studying probes of higher-dimensional gravity, such as lensing, as well as possible connections to string-inspired models, e.g. topological defects, conical spacetimes.
 
-## Specific research problems ##
-**Dimensional regularization of QFT in curved backgrounds:**
-Exact global methods of renormalization based on meromorphic continuation of divergent integrals.
+## Research Framework & Active Programs
 
-This line of reseach continues the program started by DeWitt, Schwinger, Bunch, Davies and so on, on the finite and convariant definition of renormalized correlators in semiclassical gravity. This paradigm opposes the modern effective techniques of UV and IR cut-off's and renormalization by radiative corrections.
+### 1. Semiclassical Gravity & Spectral Regularization
+My primary research program focuses on the formal foundations of Quantum Field Theory (QFT) in curved spacetimes, specifically addressing the challenges of regularizing and renormalizing cosmological correlators. 
 
-*Objective*: Build a precise mathematical foundation to justify the approximative, perturbative and semi-empirical approach of Effective Field Theory commonly used in particle physics.
+Rather than relying on local ultraviolet (UV) and infrared (IR) cut-offs, this work explores **covariant regularization techniques based on the meromorphic continuation of divergent integrals**. This framework builds upon the geometric approach pioneered by Schwinger, DeWitt, Bunch, and Davies, utilizing the global analytical properties of the propagator or heat kernel.
 
-**Higher-dimensional exact solutions to the Einstein field equations**: lensing of exotic compact objects and alternative void models of static expansion which could account for the cosmological constant.
+* **Core Objective:** Establish a rigorous mathematical framework that bridges non-perturbative geometric regularization with the practical, low-energy approximations routinely used in Effective Field Theory (EFT).
+* **Methodology:** Isolating ultraviolet divergences through their pole structure in the complex plane, allowing for a systematic evaluation of regularized spectral sums and correlators without breaking underlying spacetime symmetries.
 
-*Objectives*: 
-* Find exotic exact solutions to General Relavity in order to study effective models of lensing. 
-* Understand how Einstein gravity behaves in models with highly anistotropic stress. 
-* Find string-inspired models which can be connected to effective objects comming from string theory. 
-* Understand how the stability and cosmic censorship of exotic solutions can be recovered using semiclassical quantum corrections.
+---
+
+### 2. Exact Solutions in Higher-Dimensional & Semiclassical Gravity
+This line of inquiry explores exact static and spherically symmetric solutions to the Einstein Field Equations in $(n+1)$ dimensions, examining how modified geometries and quantum corrections alter classical general relativistic predictions.
+
+* **Exotic Geometries & Gravitational Lensing:** Finding novel exact solutions to model the lensing profiles of exotic compact objects and non-standard cosmic structures.
+* **Anisotropic Stress & Cosmological Alternatives:** Analyzing how Einstein gravity behaves under highly anisotropic stress-energy tensors, specifically investigating alternative static expansion models that could account for dark energy without a cosmological constant.
+* **String Phenomenology Foundations:** Constructing string-inspired, higher-dimensional configurations that can be mapped directly onto effective objects derived from string compactifications (such as cosmic strings and domain walls).
+* **Semiclassical Stability:** Investigating how quantum corrections via semiclassical backreaction alter, stabilize, or enforce cosmic censorship over classically naked or unstable exotic solutions.
