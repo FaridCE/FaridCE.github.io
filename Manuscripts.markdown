@@ -8,7 +8,7 @@ Welcome to my library. You can view or download my latest work below.
 
 ### Pre-prints
 
-* **Regularization of cosmological correlators.**
+* **Resonant Non–Gaussianity from Non–Bunch–Davies Vacua.**
 <br>
 
 <button onclick="togglePreview('previewBtn1', 'pdfContainer1', 'pdfFrame1', '{{ '/assets/manuscripts/Resonant.pdf#view=FitH' | relative_url }}')" id="previewBtn1" style="background-color: #2ea44f; color: white; border: none; padding: 8px 16px; border-radius: 6px; cursor: pointer; font-weight: bold; margin: 10px 0;">
