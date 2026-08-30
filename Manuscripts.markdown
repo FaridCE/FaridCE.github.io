@@ -48,7 +48,7 @@ function togglePreview(btnId, containerId, frameId, pdfPath) {
     container.style.height = "0px";
     container.style.opacity = "0";
     btn.innerHTML = "Show Preview";
-    btn.style.backgroundColor = "#2ea44f";
+    btn.style.backgroundColor = "#2D3E50";
     frame.src = ""; // Unload to save memory
   }
 }
