@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Axion Poster (Spanish)"
-date: 2026-10-27 12:00:00 -0600
+date: 2026-10-27
 categories: inflation, cosmology
 ---
 
